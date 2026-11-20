@@ -1,0 +1,30 @@
+# Executáveis
+*.exe
+*.out
+*.o
+*.obj
+
+# Bibliotecas
+*.dll
+*.lib
+*.exp
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.layout
+*.depend
+
+# Pastas de compilação
+build/
+Debug/
+Release/
+obj/
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
